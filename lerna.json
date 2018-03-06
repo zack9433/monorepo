@@ -5,5 +5,10 @@
   "npmClient": "yarn",
   "useWorkspaces": true,
   "useGitVersion": true,
-  "gitVersionPrefix": "v"
+  "gitVersionPrefix": "v",
+  "commands": {
+    "publish": {
+      "message": "chore(release): publish %s"
+    }
+  }
 }
