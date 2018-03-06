@@ -1,6 +1,6 @@
 {
   "name": "brunch",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Brunch manyrepo",
   "main": "index.js",
   "repository": {
