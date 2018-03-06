@@ -1,3 +1,3 @@
-console.log('waffles hello2');
+console.log('waffles hello3');
 
 module.exports = 'waffles with syrup';
