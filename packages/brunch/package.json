@@ -1,0 +1,13 @@
+{
+  "name": "brunch",
+  "version": "1.0.0",
+  "description": "Brunch manyrepo",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zack9433/monorepo.git"
+  },
+  "dependencies": {
+    "waffles": "git+https://github.com/zack9433/waffles.git#v1.0.0"
+  }
+}
