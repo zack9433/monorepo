@@ -1,6 +1,6 @@
 {
   "name": "brunch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Brunch manyrepo",
   "main": "index.js",
   "repository": {
@@ -8,6 +8,6 @@
     "url": "git+https://github.com/zack9433/monorepo.git"
   },
   "dependencies": {
-    "waffles": "git+https://github.com/zack9433/waffles.git#v1.0.0"
+    "waffles": "git+https://github.com/zack9433/waffles.git#v1.0.1"
   }
 }
