@@ -1,8 +1,11 @@
 {
   "name": "waffles",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "description": "Waffles manyrepo",
   "main": "index.js",
+  "scripts": {
+    "start": "echo 'waffles'"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zack9433/monorepo.git"

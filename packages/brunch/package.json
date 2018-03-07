@@ -1,8 +1,11 @@
 {
   "name": "brunch",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Brunch manyrepo",
   "main": "index.js",
+  "scripts": {
+    "start": "echo 'brunch'"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zack9433/monorepo.git"
