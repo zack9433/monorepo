@@ -1,6 +1,6 @@
 {
   "name": "waffles",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Waffles manyrepo",
   "main": "index.js",
   "scripts": {
