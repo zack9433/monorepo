@@ -9,7 +9,7 @@
   "commands": {
     "publish": {
       "message": "chore(release): publish",
-      "ignore": ["*.md", "package.json"]
+      "ignore": ["*.md", "package.json", "dist"]
     }
   }
 }
