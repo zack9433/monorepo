@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="1.5.1"></a>
+## [1.5.1](https://github.com/zack9433/monorepo/compare/waffles@1.5.0...waffles@1.5.1) (2018-03-08)
+
+
+
+
+**Note:** Version bump only for package waffles
+
 <a name="1.5.0"></a>
 # [1.5.0](https://github.com/zack9433/monorepo/compare/waffles@1.1.2...waffles@1.5.0) (2018-03-07)
 
