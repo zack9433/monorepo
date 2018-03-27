@@ -1,0 +1,5 @@
+pipeline:
+  test:
+    image: docker-drone-plugin-clog
+    changelog_file: CHANGELOG.md
+
