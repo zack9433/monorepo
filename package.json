@@ -11,6 +11,6 @@
     "url": "git+https://github.com/zack9433/monorepo.git"
   },
   "devDependencies": {
-    "lerna": "^2.9.0"
+    "lerna": "^3.4.0"
   }
 }

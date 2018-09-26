@@ -1,5 +1,5 @@
 {
-  "lerna": "2.9.0",
+  "lerna": "3.4.0",
   "packages": ["packages/*"],
   "version": "independent",
   "npmClient": "yarn",
@@ -9,7 +9,7 @@
   "commands": {
     "publish": {
       "message": "chore(release): publish",
-      "ignore": ["*.md", "package.json", "dist/*", ".*"]
+      "ignoreChanges": ["*.md", "package.json", "dist/*", ".*"]
     }
   }
 }
